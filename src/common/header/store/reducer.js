@@ -1,20 +1,19 @@
 import * as constants from './constants';
+import { fromJS } from 'immutable';
 
-const defaultState = {
-  focused: false
-};
+const defaultState = fromJS({
+  focused: false,
+  list: [],
+});
 
 export default (state = defaultState, action) => {
   if(action.type === constants.SEARCH_FOCUS) {
-    return {
-      focused: true
-    }
+    // immutable's set(), not changing the original obejct value, instead, return a new copy object
+    return state.set('focused',true);
   }
 
   if(action.type === constants.SEARCH_BLUR) {
-    return {
-      focused: false
-    }
+    return state.set('focused',false);
   }
 
   return state;
