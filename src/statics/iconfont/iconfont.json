@@ -6,6 +6,20 @@
   "description": "这是简书iconfont的仓库",
   "glyphs": [
     {
+      "icon_id": "13524731",
+      "name": "Spin",
+      "font_class": "Spin",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "15555406",
+      "name": "spin",
+      "font_class": "spin",
+      "unicode": "e72b",
+      "unicode_decimal": 59179
+    },
+    {
       "icon_id": "912606",
       "name": "quill pen_black",
       "font_class": "quillpenblack",
