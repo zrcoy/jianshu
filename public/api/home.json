@@ -1,0 +1,55 @@
+{
+  "success": true,
+  "data":{
+    "topicList": [
+      {
+        "id": 1,
+        "title": "社会热点",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/24196296-0de67a7f2d03cf95?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      },
+      {
+        "id": 2,
+        "title": "彩绘",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyPRNsg_LeKvcfgpr3V3YrxG971I6g9OXJig&amp;usqp=CAU"
+      }
+    ],
+
+    "articleList": [
+      {
+        "id": 1,
+        "title": "投资者对《2077》不满 律师事务所对CDPR提起集体诉讼",
+        "desc": "之前CDPR宣布《赛博朋克2077》全球销量已超过1300万份，使其成为有史以来最成功的RPG游戏之一。但现在一盆冷水泼在CDPR头上了，全球投资者权益律师事务所罗森律师事务所(Rosen Law Firm)宣布，已代表2020年1月16日至2020年12月17日期间CDPR的证券购买者提起了集体诉讼...",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDCUNlgPpkxYfau1l_OqULlB58tmw5M9kaQ&usqp=CAU"
+      },
+      {
+        "id": 2,
+        "title": "北京持续低温 动物园里猴子抱团取暖",
+        "desc": "2021年1月7日，寒潮来袭京城气温白天骤降至零下8度，动物园里的猴子们吃饱喝足之后，便聚在一起抱团取暖...",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5deEiDqNtwUs3Ci9iMLZumReQvtvv41UJhA&usqp=CAU"
+      },
+      {
+        "id": 3,
+        "title": "现场：示威者冲进美国国会 坐佩洛西椅子上摆拍",
+        "desc": "1月6日，在国会投票认证拜登赢得选举的当天，成千上万名川普的支持者在华盛顿特区举行抗议集会，谎称总统选举是被偷走的。示威活动变成了暴力活动，许多参与者将其视为“川普总统的最后一战”...",
+        "imgUrl": "http://d.ifengimg.com/w640_h360_q70/x0.ifengimg.com/ucms/2021_02/01CD67274297189C01C6C780E47EFC25C9750076_size86_w650_h366.jpg"
+      },
+      {
+        "id": 4,
+        "title": "航拍黄河凌汛冰块群通过壮观景象",
+        "desc": "2021年1月7日，寒潮来袭京城气温白天骤降至零下8度，动物园里的猴子们吃饱喝足之后，便聚在一起抱团取暖...",
+        "imgUrl": "http://d.ifengimg.com/w640_h360_q70/x0.ifengimg.com/ucms/2021_02/B17F13577AC6253D9B9F80B817F3A65A2EAA47AC_size62_w650_h366.jpg"
+      }
+    ],
+  
+    "recommendList":[
+      {
+        "id": 1,
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-daily-e6f6601abc495573ad37f2532468186f.png"
+      },
+      {
+        "id": 2,
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+      }
+    ]
+  }
+}

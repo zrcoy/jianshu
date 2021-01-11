@@ -76,7 +76,7 @@ export const NavSearch = styled.input.attrs({
   &.slide-exit-active{
     width: 160px;
   }
-`
+`;
 
 export const SearchInfo = styled.div`
   position: absolute;
@@ -85,7 +85,8 @@ export const SearchInfo = styled.div`
   width:240px;
   padding:0 20px;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
-` 
+  background: #fff
+`;
 
 export const SearchInfoTitle = styled.div`
   margin-top: 20px;
@@ -93,7 +94,7 @@ export const SearchInfoTitle = styled.div`
   line-height: 20px;
   font-size: 14px;
   color: #969696;
-` 
+`;
 
 export const SearchInfoSwitch = styled.span`
   float: right;
@@ -108,7 +109,7 @@ export const SearchInfoSwitch = styled.span`
     transform: rotate(0deg);
     transform-origin: center center;
   }
-` 
+`;
 
 export const SearchInfoItem = styled.a`
   display: block;
@@ -125,7 +126,7 @@ export const SearchInfoItem = styled.a`
 
 export const SearchInfoList = styled.div`
   overflow: hidden;
-` 
+`;
 
 
 export const Addition = styled.div`
@@ -133,7 +134,7 @@ export const Addition = styled.div`
   right: 0;
   top: 0;
   height: 56px;
-`
+`;
 
 export const Button = styled.div`
   float: right;
@@ -151,7 +152,7 @@ export const Button = styled.div`
     color: #fff;
     background: #ec6149;
   }
-`
+`;
 
 export const SearchWrapper = styled.div`
   float :left;
@@ -169,5 +170,5 @@ export const SearchWrapper = styled.div`
       color: #fff;
     }
   }
-` 
+` ;
 
