@@ -9,7 +9,6 @@ import {
 } from './style';
 
 class Detail extends PureComponent{
-
   render(){
     return(
       <DetailWrapper>

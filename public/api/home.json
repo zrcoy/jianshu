@@ -44,12 +44,59 @@
     "recommendList":[
       {
         "id": 1,
-        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-daily-e6f6601abc495573ad37f2532468186f.png"
+        "imgUrl": "https://storage.cloud.google.com/goodimg/%E6%97%A5%E6%9B%B4%E6%8C%91%E6%88%98.png"
       },
       {
         "id": 2,
-        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+        "imgUrl": "https://storage.cloud.google.com/goodimg/%E7%AE%80%E4%B9%A6%E4%BC%9A%E5%91%98.png"
+      },
+      {
+        "id": 3,
+        "imgUrl": "https://storage.cloud.google.com/goodimg/%E4%BC%98%E9%80%89%E8%BF%9E%E8%BD%BD.png"
+      },
+      {
+        "id": 4,
+        "imgUrl": "https://storage.cloud.google.com/goodimg/%E7%AE%80%E4%B9%A6%E7%89%88%E6%9D%83.png"
+      }
+    ],
+
+    "writerList":[
+      {
+        "id": 1,
+        "imgUrl": "https://storage.cloud.google.com/goodimg/avatar_1.png",
+        "name": "董克平日记",
+        "numOfWords": "1230",
+        "numOfLikes": "5.5"
+      },
+      {
+        "id": 2,
+        "imgUrl": "https://storage.cloud.google.com/goodimg/avatar_2.jpg",
+        "name": "琪官Kafka",
+        "numOfWords": "274",
+        "numOfLikes": "4.3"
+      },
+      {
+        "id": 3,
+        "imgUrl": "https://storage.cloud.google.com/goodimg/avatar_3.jpeg",
+        "name": "简书钻首席小管家",
+        "numOfWords": "452",
+        "numOfLikes": "105"
+      },
+      {
+        "id": 4,
+        "imgUrl": "https://storage.cloud.google.com/goodimg/avatar_4.png",
+        "name": "卢璐说",
+        "numOfWords": "1867",
+        "numOfLikes": "33.6"
+      },
+      {
+        "id": 5,
+        "imgUrl": "https://storage.cloud.google.com/goodimg/avatar_5.png",
+        "name": "格列柯南",
+        "numOfWords": "760.5",
+        "numOfLikes": "18.2"
       }
     ]
+    
   }
 }
