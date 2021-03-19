@@ -1,29 +1,20 @@
-import React ,{ PureComponent } from 'react';
-import { connect } from 'react-redux';
-import { Redirect } from 'react-router-dom';
+import React, { PureComponent } from "react";
+import { connect } from "react-redux";
+import { Redirect } from "react-router-dom";
 
-class Write extends PureComponent{
-  render(){
+class Write extends PureComponent {
+  render() {
     const { loginStatus } = this.props;
-    if(loginStatus){
-      return(
-        <div>
-          写文章
-        </div>
-      )
-    }else{
-      return <Redirect to='/login'/>
+    if (loginStatus) {
+      return <div>Post your articles here....</div>;
+    } else {
+      return <Redirect to="/login" />;
     }
-    
   }
-
-
 }
 
 const mapState = (state) => ({
-  loginStatus: state.getIn(['login','login'])
-})
-
-
+  loginStatus: state.getIn(["login", "login"]),
+});
 
 export default connect(mapState, null)(Write);

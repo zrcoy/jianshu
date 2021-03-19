@@ -145,7 +145,7 @@ export const WriterItem = styled.div`
   }
   .name{
     color:red;
-    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 14px;
   } 
 `;
 
